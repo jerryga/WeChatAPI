@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
   s.name         = "WeChat"
-  s.version      = "1.0.1"
+  s.version      = "1.0.0"
   s.summary      = "W"
-  s.homepage     = 'http://weibo.com/xuym1992/'
+  s.homepage     = 'https://open.weixin.qq.com'
   s.license      = 'MIT'
   s.author       = { 'WeChat' => 'https://open.weixin.qq.com' }
 s.authors  = { 'JerryGa' => 
