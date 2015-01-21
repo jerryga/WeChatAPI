@@ -5,6 +5,8 @@ Pod::Spec.new do |s|
   s.homepage     = 'http://weibo.com/xuym1992/'
   s.license      = 'MIT'
   s.author       = { 'WeChat' => 'https://open.weixin.qq.com' }
+s.authors  = { 'JerryGa' => 
+                 'staticga@gmail.com' } 
   s.platform     = :ios
   s.source       = { :git => "https://github.com/jerryga/WeChatAPI.git", :tag => s.version.to_s  }
 s.requires_arc = true
